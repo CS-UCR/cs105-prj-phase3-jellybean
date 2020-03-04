@@ -1,4 +1,4 @@
-# CS105-Project: Data Analysis for Stock Prediction
+# CS105-Project: Machine Learning for Stock Prediction
 
 ###### jellybean_proj_CS105.ipynb
 
@@ -23,7 +23,20 @@ when comparing which stocks are favored to move more than others.
 
 Finally, the first two bar charts demonstrate the best 5 predicted stocks for each ML algo, and
 the third, top 5 current movers live. We expect to see at least one stock that the ML algos agree 
-on and that stock should be in the top 5 movers of the day by bell close.
+on, and that stock should be in the top 5 movers of the day by bell close.
+
+## Results
+
+We see 3 charts in the jupyter notebook indicating the two ML algos predictions and the top 5 live stocks.
+The ML algos agree on three stocks as best buys based on predicted positive movement: 'GILD','AMD','MSFT'.
+
+Among the best movers of the day and the 3 agreed upon above: 'GILD'.
+
+We can see that the two ML algos correctly agreed upon 'GILD'. 'AMD' and 'MSFT' were also
+positive movers, but not in the top 5 that day.
+
+Had you run this notebook at market open and decided to buy 'GILD' based on the predictions, your investment would have
+have grown more than 8% by bell close.
 
 ## Installation
 
