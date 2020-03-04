@@ -52,5 +52,5 @@ If you already have the historic data you need then simply leave 'updateHistoric
 
 The program can be run after trading hours to see how the predictions performed, 'updateLive = True'.
 
-run in jupyter lab
+Run in jupyter lab
 
