@@ -40,19 +40,17 @@ have grown more than 8% by bell close.
 
 ## Installation
 
-Code is ready to run in jupyter notebook. 
-
 'pip install' needed dependencies, or if using anaconda, 
 install libraries through navigator/profile terminal.
 
 ## Usage
 
-'Config' section is self-explanatory
+'Config' section is mostly self-explanatory
 
-The program is meant to be run at the beginning of the trading day.
+The program is meant to be run at the beginning of the trading day, 'updateLive = True'.
 If you already have the historic data you need then simply leave 'updateHistoric' = False.
 
-The program can be run after trading hours to see how the predictions performed.
+The program can be run after trading hours to see how the predictions performed, 'updateLive = True'.
 
-run in jupyter notebook
+run in jupyter lab
 
