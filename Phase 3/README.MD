@@ -35,8 +35,7 @@ Among the best movers of the day and the 3 agreed upon above: 'GILD'.
 We can see that the two ML algos correctly agreed upon 'GILD'. 'AMD' and 'MSFT' were also
 positive movers, but not in the top 5 that day.
 
-Had you run this notebook at market open and decided to buy 'GILD' based on the predictions, your investment would have
-have grown more than 8% by bell close.
+Had you run this notebook at market open and decided to buy 'GILD' based on the predictions, your investment would have grown more than 8% by bell close.
 
 ## Installation
 
