@@ -23,5 +23,5 @@ install libraries through navigator/profile terminal.
 
 ## Usage
 
-Run in jupyter Lab
+Jupyter Lab recommended
 
