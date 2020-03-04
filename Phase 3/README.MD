@@ -47,7 +47,7 @@ install libraries through navigator/profile terminal.
 'Config' section is mostly self-explanatory
 
 The program is meant to be run at the beginning of the trading day, 'updateLive = True'.
-If you already have the historic data you need then simply leave 'updateHistoric' = False.
+If you already have the historic data you need then simply leave 'updateHistoric = False'.
 
 The program can be run after trading hours to see how the predictions performed, 'updateLive = True'.
 
