@@ -14,7 +14,7 @@ The project was completed in 3 phases:
 
 ###### [Phase 2: Scrape, Clean, and EDA](https://github.com/CS-UCR/cs105-prj-phase3-jellybean/tree/master/Phase%202)
 
-###### [Phase 3: Data Analysis for Stock Prediction](https://github.com/CS-UCR/cs105-prj-phase3-jellybean/tree/master/Phase%203)
+###### [Phase 3: Machine Learning for Stock Prediction](https://github.com/CS-UCR/cs105-prj-phase3-jellybean/tree/master/Phase%203)
 
 ## Installation
 
