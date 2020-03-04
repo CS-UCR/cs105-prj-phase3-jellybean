@@ -1,4 +1,4 @@
-# CS105-Project: Stock Prediction
+# CS105-Project: Stock Market Prediction
 
 The goal of this project is to scrape website data, clean scraped data, perform exploratory data analysis 
 through visualizations, and finally, use machine learning algorithms to make predictions from collected data.
