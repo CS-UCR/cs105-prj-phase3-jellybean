@@ -25,6 +25,9 @@ Finally, the first two bar charts demonstrate the best 5 predicted stocks for ea
 the third, top 5 current movers live. We expect to see at least one stock that the ML algos agree 
 on, and that stock should be in the top 5 movers of the day by bell close.
 
+Make note that I do not normalize the test data but do normalize the training data. This is
+intentional. In tetsing, I saw better predictions when not normalizing the test case.
+
 ## Results
 
 We see 3 charts in the jupyter notebook indicating the two ML algos predictions and the top 5 live stocks.
