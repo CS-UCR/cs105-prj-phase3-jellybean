@@ -23,22 +23,22 @@ when comparing which stocks are favored to move more than others.
 
 Finally, the first two bar charts demonstrate the best 5 predicted stocks for each ML algo, and
 the third, top 5 current movers live. We expect to see at least one stock that the ML algos agree 
-on, and that stock should be in the top 5 movers of the day by bell close.
+on, and that stock should be in the top 10 movers of the day by bell close.
 
 Make note that I do not normalize the test data but do normalize the training data. This is
 intentional. In tetsing, I saw better predictions when not normalizing the test case.
 
 ## Results
 
-We see 3 charts in the jupyter notebook indicating the two ML algos predictions and the top 5 live stocks.
-The ML algos agree on three stocks as best buys based on predicted positive movement: 'GILD','AMD','MSFT'.
+We see 3 charts in the jupyter notebook indicating the two ML algos predictions and the top 10 live stocks.
+The ML algos agree on three stocks as best buys based on predicted positive movement: 'GILD','AMD','SIRI'.
 
-Among the best movers of the day and the 3 agreed upon above: 'GILD'.
+Among the best movers of the day, and the 3 agreed upon above: 'GILD','AMD'.
 
-We can see that the two ML algos correctly agreed upon 'GILD'. 'AMD' and 'MSFT' were also
-positive movers, but not in the top 5 that day.
+We can see that the two ML algos correctly agreed upon 'GILD','AMD'. However 'SIRI' is not in the top 10 movers 
+of the day.
 
-Had you run this notebook at market open and decided to buy 'GILD' based on the predictions, your investment would have grown more than 8% by bell close.
+Had you run this notebook at market open and purchased 'GILD' and 'AMD' based on the predictions, your investment would have grown more than 5% and 1.5%, respectively, by bell close.
 
 ## Installation
 
