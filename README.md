@@ -16,6 +16,8 @@ The project was completed in 3 phases:
 
 ###### [Phase 3: Machine Learning for Stock Prediction](https://github.com/CS-UCR/cs105-prj-phase3-jellybean/tree/master/Phase%203)
 
+**\*I am the sole contributor on this project**
+
 ## Installation
 
 'pip install' needed dependencies, or if using anaconda, 
